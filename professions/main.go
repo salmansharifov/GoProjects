@@ -21,9 +21,9 @@ import (
 const (
 	host     = "192.168.120.54"
 	port     = 5432
-	user     = "mol_api"
-	password = "mol_api"
-	dbname   = "mol_api_db"
+	user     = "****"
+	password = "****"
+	dbname   = "****"
 )
 
 func main() {
